@@ -1,6 +1,7 @@
 {
   "name": "hbt-web",
   "version": "0.0.0",
+  "homepage": "https://squabla.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
